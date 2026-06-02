@@ -1,8 +1,8 @@
 ## Screenshots
 
-### Screenshot 1
+### Database (mongoDB)
 
-![Screenshot 1](screenshots/Screenshot%202026-06-02%20162106.png)
+![Screenshot 1](https://github.com/shaikasma86394-byte/job-board-ats/blob/aef1f98b085392fd92a663687441a657e5b3b0b9/databases.png)
 
 ### Screenshot 2
 
