@@ -10,11 +10,11 @@
 
 ### Login Page (user login successfully --> first need to register then use that credentials to login )
 
-![Screenshot 3]([screenshots/Screenshot%202026-06-02%20162145.png](https://github.com/shaikasma86394-byte/job-board-ats/blob/5f287aff11b1f4fa4aa6cc37227c5818f826427e/login.png))
+![Screenshot 3]([screenshots/Screenshot%202026-06-02%20162145.png](https://github.com/shaikasma86394-byte/job-board-ats/blob/5f287aff11b1f4fa4aa6cc37227c5818f826427e/login.png)
 
 ### Applicants Page (Only employee can see this page beacuase here ui role based rendering applies where employee can delete , update the job and accept or reject the candidate and can view the applicant resume)
 
-![Screenshot 4](screenshots/Screenshot%202026-06-02%20162213.png)
+![Screenshot 4]([screenshots/Screenshot%202026-06-02%20162213.png](https://github.com/shaikasma86394-byte/job-board-ats/blob/1d0e5c8d1fccae54b449581effbef0b72465242e/applicants.png)
 
 ### CreateJob Page (only employee can post the job )
 
@@ -26,7 +26,7 @@
 
 ### AllJobs (Candidate can see the all jobs posted by employees)
 
-![Screenshot 7]([screenshots/Screenshot%202026-06-02%20162325.png](https://github.com/shaikasma86394-byte/job-board-ats/blob/98cb5517f8024fa5f66f4c7c7a050a118ba69205/allJobs.png))
+![Screenshot 7]([screenshots/Screenshot%202026-06-02%20162325.png](https://github.com/shaikasma86394-byte/job-board-ats/blob/98cb5517f8024fa5f66f4c7c7a050a118ba69205/allJobs.png)
 
 ### clicking on jobs open new page which is single page job where all details will appears
 these are main things and have other pages also like 
