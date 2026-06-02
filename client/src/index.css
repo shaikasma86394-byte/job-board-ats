@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Tailwind entry file */
+
+body{
+  background: #0f172a;
+}
